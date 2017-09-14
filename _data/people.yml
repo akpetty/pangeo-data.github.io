@@ -297,3 +297,16 @@
     - paleoclimate
     - HPC
     - physical oceanography
+
+- first_name: Alek
+  last_name: Petty
+  institution: NASA Goddard Space Flight Center
+  website: http://www.alekpetty.com
+  email: alek.a.petty@nasa.gov
+  github: akpetty
+  twitter: alekpetty
+  orcid: 0000-0003-0307-3216
+  tags:
+    - sea ice
+    - polar oceanography
+    - remote sensing
